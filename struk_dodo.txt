@@ -1,0 +1,12 @@
+=== Struk Pemesanan ===
+Nama Pemesan : dodo
+Tanggal      : 18-05-2025 06:39:28
+Pembayaran   : Tunai
+Es Teh x 1 = Rp5.000,00
+Jus Jeruk x 1 = Rp8.000,00
+------------------------
+Total Sebelum Diskon : Rp13.000,00
+Diskon 10%           : Rp0,00
+Total Pembayaran     : Rp13.000,00
+========================
+Terima kasih!

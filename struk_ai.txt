@@ -1,0 +1,12 @@
+=== Struk Pemesanan ===
+Nama Pemesan : ai
+Tanggal      : 17-05-2025 10:03:00
+Pembayaran   : Kartu
+Nasi Goreng x 2 = Rp30.000,00
+Ayam Geprek x 3 = Rp54.000,00
+------------------------
+Total Sebelum Diskon : Rp84.000,00
+Diskon 10%           : Rp8.400,00
+Total Pembayaran     : Rp75.600,00
+========================
+Terima kasih!

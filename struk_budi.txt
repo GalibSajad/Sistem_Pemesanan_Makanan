@@ -1,0 +1,11 @@
+=== Struk Pemesanan ===
+Nama Pemesan : budi
+Tanggal      : 17-05-2025 09:41:04
+Pembayaran   : Tunai
+Nasi Goreng x 2 = Rp30000
+------------------------
+Total Sebelum Diskon : Rp30000.0
+Diskon 10%           : Rp0.0
+Total Pembayaran     : Rp30000.0
+========================
+Terima kasih!

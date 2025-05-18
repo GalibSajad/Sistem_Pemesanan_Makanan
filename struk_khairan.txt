@@ -1,0 +1,12 @@
+=== Struk Pemesanan ===
+Nama Pemesan : khairan
+Tanggal      : 15-05-2025 10:54:47
+Pembayaran   : Tunai
+Ayam Geprek x 1 = Rp18000.0
+Kopi x 2 = Rp14000.0
+------------------------
+Total Sebelum Diskon : Rp32000.0
+Diskon 10%           : Rp3200.0
+Total Pembayaran     : Rp28800.0
+========================
+Terima kasih!

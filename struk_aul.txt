@@ -1,0 +1,11 @@
+=== Struk Pemesanan ===
+Nama Pemesan : aul
+Tanggal      : 17-05-2025 08:06:59
+Pembayaran   : Tunai
+Ayam Geprek x 1 = Rp18000.0
+------------------------
+Total Sebelum Diskon : Rp18000.0
+Diskon 10%           : Rp1800.0
+Total Pembayaran     : Rp16200.0
+========================
+Terima kasih!

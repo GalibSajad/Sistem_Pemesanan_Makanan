@@ -1,0 +1,11 @@
+=== Struk Pemesanan ===
+Nama Pemesan : galib
+Tanggal      : 18-05-2025 06:37:54
+Pembayaran   : Tunai
+Nasi Goreng x 2 = Rp30.000,00
+------------------------
+Total Sebelum Diskon : Rp30.000,00
+Diskon 10%           : Rp3.000,00
+Total Pembayaran     : Rp27.000,00
+========================
+Terima kasih!
