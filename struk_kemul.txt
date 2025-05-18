@@ -1,0 +1,10 @@
+=== Struk Pemesanan ===
+Nama Pemesan : kemul
+Tanggal      : 18-05-2025 09:13:34
+Pembayaran   : Kartu
+------------------------
+Total Sebelum Diskon : Rp0,00
+Diskon 10%           : Rp0,00
+Total Pembayaran     : Rp0,00
+========================
+Terima kasih!

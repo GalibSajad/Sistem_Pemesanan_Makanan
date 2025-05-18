@@ -35,7 +35,7 @@ public class Main {
             System.out.print("Pilih menu: ");
 
             int pilihan = input.nextInt();
-            input.nextLine(); // buang newline
+            input.nextLine();
 
             if (pilihan == 0) {
                 System.out.println("Terima kasih! Program selesai.");
@@ -99,6 +99,7 @@ public class Main {
 
                         if (jumlah > 0) {
                             pesanan.tambahItem(menuDipilih[nomorMenu - 1], jumlah);
+                            pesananDibatalkan = false;
                             System.out.println("Item " + menuDipilih[nomorMenu - 1].getNama() + " sebanyak " + jumlah + " berhasil ditambahkan.");
                         } else {
                             System.out.println("Jumlah tidak valid untuk menu " + menuDipilih[nomorMenu - 1].getNama());
@@ -134,8 +135,9 @@ public class Main {
                     System.out.print("Apakah Anda yakin ingin membatalkan pesanan? (y/n): ");
                     String batalInput = input.nextLine();
                     if (batalInput.equalsIgnoreCase("y")) {
+                        pesanan = new Pesanan(false);
                         pesananDibatalkan = true;
-                        System.out.println("Pesanan dibatalkan.");
+                        System.out.println("Pesanan dibatalkan dan siap untuk pemesanan baru.");
                     } else {
                         System.out.println("Pesanan tidak dibatalkan.");
                     }
@@ -146,7 +148,6 @@ public class Main {
                         System.out.println("Pesanan telah dibatalkan. Tidak dapat mencetak struk.");
                         break;
                     }
-
                     if (namaPemesan.isEmpty()) {
                         System.out.println("Nama pemesan belum dimasukkan.");
                         break;
